@@ -1,0 +1,1 @@
+# eligius-mining-pool
